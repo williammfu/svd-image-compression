@@ -64,8 +64,7 @@ Tambahkan opsi algoritma Huffman untuk melakukan kompresi gambar. Untuk bonus in
 ## Pengerjaan
 
 - Buat repositori baru (*private*) lalu invite akun GitHub **williammfu**
-- Pengumpulan dapat dilakukan dengan mengirimkan link repositori GitHub dan link video (GDrive atau YouTube) via email ke 13518055@std.stei.itb.ac.id 
-- Kejujuran kalian semua sangat dihargai, jadi *jangan ngintip-ngintip repo Ca-IRK lain ya*
+- Pengumpulan dapat dilakukan dengan mengirimkan link repositori GitHub dan link video (GDrive atau YouTube) via email ke 13518055@std.stei.itb.ac.id
 - Bila ada pertanyaan, silahkan buat *issue* baru di repositori ini
 
 ## Referensi
