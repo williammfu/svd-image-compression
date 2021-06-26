@@ -1,4 +1,6 @@
 # Image Compression with SVD
+**Revisi *26 Juli 2021***
+
 Tugas CaIRK 2019
 
 Memanfaatkan algoritma Singular Value Decomposition untuk kompresi gambar
@@ -33,10 +35,11 @@ Melalui ketiga matriks hasil SVD, kamu dapat melakukan aproksimasi suatu gambar 
 
 3. Program dapat dikembangkan dengan bahasa apapun (sangat disarankan menggunakan Python).
 4. Penggunaan library diperbolehkan untuk pengolahan citra dan pengolahan matriks (misal: scipy, opencv2, etc), namun implementasi algoritma from scratch akan sangat dihargai. 
-<br/> Namun, penggunaan library yang melakukan kompresi gambar secara langsung dan melakukan komputasi SVD (misal: `numpy.linalg.svd`) <b>tidak diperbolehkan</b>.
+<br/> Namun, penggunaan library yang melakukan kompresi gambar secara langsung <b>tidak diperbolehkan</b>. (Revisi: penggunaan library untuk dekomposisi SVD diperbolehkan)
 5. Program dapat menyimpan gambar hasil kompresi pada direktori default (folder out).
 6. Program dapat menampilkan runtime program dan persentase ukuran memori gambar yang dikompresi terhadap gambar original. 
 Gambar hasil kompresi harus memiliki kualitas dan ukuran memori yang berbeda dari gambar masukan. Dimensi gambar tetap dipertahankan.
+7. **Tambahan: Gambar hasil kompresi diperbolehkan dalam mode *grayscale*.**
 
 ### Lain-lain (200 poin)
 Tulis ulang README ini dengan informasi sebagai berikut
@@ -55,9 +58,12 @@ Untuk demo, kamu dapat membuat video screen record sederhana dengan *voiceover* 
 
 Video diupload ke GDrive atau YouTube (salah satu aja bebas). Kreativitas video tidak dinilai, jadi buat yang simpel saja ya.
 
-## Bonus (900 poin)
-### Huffman Coding
+## Bonus (1000 poin)
+### Huffman Coding (900 poin)
 Tambahkan opsi algoritma Huffman untuk melakukan kompresi gambar. Untuk bonus ini, kamu perlu menambah opsi algoritma kompresi pada program kamu. Kamu tidak perlu menentukan berapa tingkat kompresi yang diinginkan untuk kompresi dengan Huffman.
+
+### RGB Compression (100 poin)
+Gambar hasil kompresi yang dihasilkan tetap dalam mode warna (RGB).
 
 ***Note**: bonus hanya akan dinilai jika seluruh spek dasar berhasil diimplementasikan*
 
