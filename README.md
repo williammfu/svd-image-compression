@@ -58,9 +58,12 @@ Untuk demo, kamu dapat membuat video screen record sederhana dengan *voiceover* 
 
 Video diupload ke GDrive atau YouTube (salah satu aja bebas). Kreativitas video tidak dinilai, jadi buat yang simpel saja ya.
 
-## Bonus (1000 poin)
-### Huffman Coding (900 poin)
+## Bonus (1600 poin)
+### Huffman Coding (800 poin)
 Tambahkan opsi algoritma Huffman untuk melakukan kompresi gambar. Untuk bonus ini, kamu perlu menambah opsi algoritma kompresi pada program kamu. Kamu tidak perlu menentukan berapa tingkat kompresi yang diinginkan untuk kompresi dengan Huffman.
+
+### SVD Computation (700 poin)
+Dekomposisi matriks secara SVD dilakukan dengan algoritma hasil implementasi sendiri.
 
 ### RGB Compression (100 poin)
 Gambar hasil kompresi yang dihasilkan tetap dalam mode warna (RGB).
